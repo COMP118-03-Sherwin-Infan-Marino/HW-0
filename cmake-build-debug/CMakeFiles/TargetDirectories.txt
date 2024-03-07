@@ -1,0 +1,3 @@
+/home/overhaul/CLionProjects/SOFTLAB-2/HW-0/cmake-build-debug/CMakeFiles/HW_0.dir
+/home/overhaul/CLionProjects/SOFTLAB-2/HW-0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/overhaul/CLionProjects/SOFTLAB-2/HW-0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
